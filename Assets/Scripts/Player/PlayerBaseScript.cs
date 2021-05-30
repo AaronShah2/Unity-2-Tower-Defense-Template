@@ -14,7 +14,7 @@ public class PlayerBaseScript : MonoBehaviour
 
     private float resourseCoolDown = 10f;
     private float timerCoolDown;
-    private int resourcesIncrease = 1;
+    private int resourcesIncrease = 20;
 
     public TextMeshProUGUI playerHealthText;
     public TextMeshProUGUI playerResourcesText;

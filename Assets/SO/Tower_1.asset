@@ -16,7 +16,7 @@ MonoBehaviour:
   cost: 75
   health: 50
   sprite: {fileID: 21300000, guid: 39e8df352f92f4ed0935c9bc80cf81cd, type: 3}
-  color: {r: 0.76470596, g: 0.76470596, b: 0.76470596, a: 1}
+  color: {r: 0.11764707, g: 0.11764707, b: 0.11764707, a: 1}
   attackCooldown: 2
   attackRange: 10
   rotationOffset: 360
